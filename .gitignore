@@ -1,0 +1,5 @@
+.env
+Dockerfile
+docker-compose.yml
+fotos_candidatos/
+data/
